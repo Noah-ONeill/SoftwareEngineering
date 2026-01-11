@@ -5,7 +5,7 @@
 - You MUST NOT modify or delete any other files or folders
 - Pull requests that modify other files will be rejected
 - Submissions without a Pull Request cannot be graded
-- 
+  
 ## Step 1: Fork the Repository
 1. Click **Fork** (top-right of this page)
 2. This creates your own copy of the repository in your GitHub account
