@@ -1,6 +1,5 @@
 ﻿public class Member
 {
-
     //instace atributes [each song gets theis own]
     private string name;
     public int age;
